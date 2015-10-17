@@ -1,4 +1,0 @@
-0.0.4 - 2015.10.16
---------------------
-Synced up with current USI Core code
-Added KSP-AVC support
