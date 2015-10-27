@@ -1,0 +1,12 @@
+0.1.0.2 - 2015.10.27
+--------------------
+Bundled Firespitter (needed for tank switching)
+
+0.1.0.1 - 2015.10.16
+--------------------
+Fixed typo in version file
+
+0.1.0 - 2015.10.16
+--------------------
+Synced up with current USI Core code
+Added KSP-AVC support
