@@ -1,3 +1,13 @@
+0.1.2.0 - 2016.01.18
+--------------------
+Orion and Medusa engines now go boom!
+Adjusted float curve for bomb explosions
+Converted textures to DDS
+
+0.1.1.0 - 2015.11.09
+--------------------
+Update for KSP 1.0.5
+
 0.1.0.2 - 2015.10.27
 --------------------
 Bundled Firespitter (needed for tank switching)
