@@ -1,6 +1,6 @@
 {
-     "NAME":"MKS",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/NuclearRockets/master/GameData/UmbraSpaceIndustries/Orion/Orion.version",
+     "NAME":"NuclearRockets",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/NuclearRockets/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/Orion/Orion.version",
 	 "DOWNLOAD":"https://github.com/BobPalmer/NuclearRockets/releases",
      "GITHUB":{
          "USERNAME":"BobPalmer",
@@ -10,13 +10,13 @@
      "VERSION":{
          "MAJOR":0,
          "MINOR":1,
-         "PATCH":0,
-         "BUILD":2
+         "PATCH":2,
+         "BUILD":0
      },
      "KSP_VERSION":{
          "MAJOR":1,
          "MINOR":0,
-         "PATCH":4
+         "PATCH":5
      },
      "KSP_VERSION_MIN":{
          "MAJOR":1,
@@ -26,6 +26,6 @@
      "KSP_VERSION_MAX":{
          "MAJOR":1,
          "MINOR":0,
-         "PATCH":4
+         "PATCH":5
      }
  } 
