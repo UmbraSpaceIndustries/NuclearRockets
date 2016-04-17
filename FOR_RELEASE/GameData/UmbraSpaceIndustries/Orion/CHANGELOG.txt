@@ -1,3 +1,7 @@
+0.2.1 - 2016.04.16
+------------------
+Compatibility Update with 1.1
+
 0.2.0 - TBD
 -----------
 Compatibility with KSP 1.1
