@@ -1,3 +1,10 @@
+1.5.0 - TBD
+------------------
+Six new bimodal (LH2/LH2+Ox) engines have been added in various stack sizes.
+- New engines are balanced in LH2 mode against the NERV for comparable Delta-V
+- In LH2+Ox mode, the tradeoff between ISP and Thrust fits between the NERV and stock LFO Vac engines
+
+
 1.4.0 - 2020.12.20
 ------------------
 KSP 1.11 Compatibility
