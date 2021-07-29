@@ -1,9 +1,9 @@
 {
      "NAME":"NuclearRockets",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/NuclearRockets/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/Orion/Orion.version",
-	 "DOWNLOAD":"https://github.com/BobPalmer/NuclearRockets/releases",
+	 "URL":"https://raw.githubusercontent.com/UmbraSpaceIndustries/NuclearRockets/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/Orion/Orion.version",
+	 "DOWNLOAD":"https://github.com/UmbraSpaceIndustries/NuclearRockets/releases",
      "GITHUB":{
-         "USERNAME":"BobPalmer",
+         "USERNAME":"UmbraSpaceIndustries",
          "REPOSITORY":"NuclearRockets",
          "ALLOW_PRE_RELEASE":false
      },
