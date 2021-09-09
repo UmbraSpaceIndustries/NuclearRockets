@@ -1,4 +1,4 @@
-1.5.0 - TBD
+112.0 - 2021.09.19
 ------------------
 Six new bimodal (LH2/LH2+Ox) engines have been added in various stack sizes.
 - New engines are balanced in LH2 mode against the NERV for comparable Delta-V
